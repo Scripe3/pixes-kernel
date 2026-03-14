@@ -1,0 +1,32 @@
+========================================
+*Pixes Kernel*
+========================================
+
+*Version:* 0.1-alpha
+*Author:* Scripe3
+*Website:* Scripe3.github.io/pixes-kernel(not active)
+
+Pixes is a lightweight, open-source kernel designed for modern systems. 
+It aims to provide a simple, efficient, and modular architecture for hobbyists 
+and developers who want to build their own operating systems.
+
+*Features:*
+- Modular kernel architecture
+- Basic memory management
+- Simple task scheduler
+- Support for multiple CPU cores (SMP)
+- Basic driver framework
+
+*Getting Started:*
+1. Clone or download the Pixes source.
+2. Follow the build instructions in BUILD.txt.
+3. Compile using the recommended toolchain.
+4. Run on QEMU or your target hardware.
+
+*Contributing:*
+Pixes welcomes contributions. Please follow the coding style
+and guidelines provided in CONTRIBUTING.txt.
+
+*Support:*
+For questions and discussions, reach out via GitHub Issues or
+your preferred open-source community platform.
